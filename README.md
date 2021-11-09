@@ -1,3 +1,3 @@
 # github_tutorial_INT
 
-Add your name here... :)
+My name is Bjorg KILAVIK, I'm the GitHub master!
